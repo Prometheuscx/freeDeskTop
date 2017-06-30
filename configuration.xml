@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8">
 
 <default name="web" description="xxx"/>
-
+<config id="file">
+	<item id="file_location" value="/srv/www/sqhuaxue/silvanTauriel/dg.xml"/>
+</config>
 </xml>
